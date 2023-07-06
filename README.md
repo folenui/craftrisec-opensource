@@ -1,3 +1,3 @@
-# CraftRise Network Source Code [Launcher & Client & Loader (Not Finished)]
+# CraftRise Network Source Code [(Launcher - Client Source Code)]
 
-Source will be released when i finish.
+Source not finish.
